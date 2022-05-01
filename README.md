@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicolas, aka @nclsmvll
+- 👋 Hi, I’m Nicolas
 - 👀 I’m interested in LaTeX, python, manjaro, physics and many more
 <!--- - 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on ... --->
