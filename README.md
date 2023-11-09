@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicolas
-- 👀 I’m interested in LaTeX, python, manjaro, physics and many more
+- 👀 I’m interested in Typst, LaTeX, python, manjaro, physics and many more
 <!--- - 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me at nclsmvll@protonmail.com
